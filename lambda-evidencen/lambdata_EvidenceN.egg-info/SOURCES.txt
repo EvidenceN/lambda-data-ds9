@@ -1,0 +1,9 @@
+README.md
+setup.py
+lambda-data-project/__init__.py
+lambda-data-project/df_utils.py
+lambdata_EvidenceN.egg-info/PKG-INFO
+lambdata_EvidenceN.egg-info/SOURCES.txt
+lambdata_EvidenceN.egg-info/dependency_links.txt
+lambdata_EvidenceN.egg-info/requires.txt
+lambdata_EvidenceN.egg-info/top_level.txt
